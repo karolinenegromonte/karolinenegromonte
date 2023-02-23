@@ -17,15 +17,12 @@ Eu sou a Karoline Negromonte,sou uma programadora Front End, atualmente estou cr
 <br/>
 <br/>
 
-[![Karoline stats](https://github-readme-stats.vercel.app/api?username=karolinenegromonte)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<br/>
-<br/>
-<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolinenegromonte&show_icons=true&theme=radical)
-<br/>
-<br/>
-<br/>
-<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinenegromonte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
+<br/>
+<br/>
  
+![karolinenegromonte stats](https://github-readme-stats.vercel.app/api?username=karolinenegromonte&show_icons=true&theme=radical)
+
